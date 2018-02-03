@@ -1,4 +1,4 @@
-require(test/index-test.js)
+require('test/index-test.js')
 
 const app = "I don't do much."
 
